@@ -32,3 +32,7 @@ We process a dataset of **235,110** text records and implement **TF-IDF, Word2Ve
 📊 Splitting data into training/testing sets  
 📊 Training a classification model  
 📊 Evaluating with accuracy, precision, recall, and F1-score
+
+## 📊 Results & Findings  
+- Achieved **97.8%** accuracy in classifying questions.  
+- Compared vectorization techniques to analyze impact on model performance.
